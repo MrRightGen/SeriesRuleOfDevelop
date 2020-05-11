@@ -3,7 +3,7 @@
 
 ### 1、Git提交信息规范
 
-提交的格式为：<type>: <subject>，type用于说明 commit 的类别，subject是 commit 原因的简短描述，type可以使用如下类别：
+提交的格式为：```<type>: <subject>```，type用于说明 commit 的类别，subject是 commit 原因的简短描述，type可以使用如下类别：
 
 * init：项目初始化
 * feat：增加新功能
